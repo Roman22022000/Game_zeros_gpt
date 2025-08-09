@@ -1,0 +1,2 @@
+arcade==2.6.17        # или pygame==2.6.0
+pytest
