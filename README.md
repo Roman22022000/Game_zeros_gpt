@@ -8,6 +8,7 @@ manipulate the board.
 - Arrow keys – move the yellow cursor across the grid.
 - Space – toggle the selected cell between blue and green.
 - PageUp / PageDown – move to upper or lower stacked grid layers.
+- Esc or close window – exit the application.
 
 ## Running
 ```bash

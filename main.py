@@ -79,6 +79,8 @@ class GridApp(arcade.Window):
             self._raise_layer()
         elif key == arcade.key.PAGEDOWN:
             self._lower_layer()
+        elif key == arcade.key.ESCAPE:
+            self.close()
 
     def _toggle_cell(self) -> None:
         """Toggle color of the cell under the cursor."""
